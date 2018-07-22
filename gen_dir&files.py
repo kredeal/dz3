@@ -30,7 +30,4 @@ def make_dir_with_files(pattern, count, list):
 
 
 
-# make_dir_with_files('lesson3', count_task(),create_list())
-
-for i in range(1040,1072):
-    print(chr(i))
+make_dir_with_files('lesson3', count_task(),create_list())
